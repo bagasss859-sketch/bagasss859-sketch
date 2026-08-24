@@ -60,6 +60,7 @@ Building web apps, scrapers, and automation tools that turn messy public data in
 
 <p>
   <img src="https://img.shields.io/badge/Ren%27Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white" alt="Ren'Py">
+  <img src="https://img.shields.io/badge/RPG%20Maker-8B0000?style=for-the-badge" alt="RPG Maker">
   <img src="https://img.shields.io/badge/Localization-2F6FED?style=for-the-badge" alt="Localization">
   <img src="https://img.shields.io/badge/rpycdec-8A2BE2?style=for-the-badge" alt="rpycdec">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
@@ -67,5 +68,9 @@ Building web apps, scrapers, and automation tools that turn messy public data in
 </p>
 
 <p align="center">
-  <img src="https://s6.imgcdn.dev/YEiFIC.jpg" alt="screenshot" style="max-width: 420px; width: 100%; border-radius: 12px;">
+  <img src="https://s6.imgcdn.dev/YEiJVl.jpg" alt="Clawie — Enterprise Localization Suite" style="max-width: 420px; width: 100%; border-radius: 12px;">
+</p>
+
+<p align="center">
+  <strong>Clawie</strong> — Enterprise Localization Suite: AI-powered translation pipeline for Ren'Py &amp; RPG Maker. Features rpycdec decompilation, RPA extraction, and hybrid DeepSeek/Google/LibreTranslate engine with intelligent caching and automated quality validation.
 </p>
