@@ -17,7 +17,6 @@ Building web apps, scrapers, and automation tools that turn messy public data in
   <a href="https://youtube.com/@renpyvisualnovel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.tiktok.com/@renpyvisualnovel"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
   <a href="https://t.me/+bIw5Zat65aQ1ODNl"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.npmjs.com/~bagas09"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
   <a href="https://saweria.co/Bagass0877"><img src="https://img.shields.io/badge/Saweria-FFAA00?style=for-the-badge" alt="Saweria"></a>
   <a href="https://trakteer.id/bagasss2/tip"><img src="https://img.shields.io/badge/Trakteer-BE1E2D?style=for-the-badge" alt="Trakteer"></a>
 </p>
